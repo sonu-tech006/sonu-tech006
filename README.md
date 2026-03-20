@@ -1,5 +1,4 @@
 👋 Hi, I'm Sonu Kumar
-
 -------------------------------------------------------------------------------------------------------------
 🚀 B.Tech Student | Aspiring Software Engineer                                           
 💻 DSA Enthusiast | Full Stack Developer                            
